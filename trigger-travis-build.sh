@@ -6,7 +6,7 @@ set -x
 
 # prepare data for triggering Travis-CI
 TOKEN=xxx
-REPO='DieterReuter%2Frpi64-kernel'
+REPO='jdkuhne%2Frpi64-kernel'
 BODY='{
 "request": {
   "branch":"master",
